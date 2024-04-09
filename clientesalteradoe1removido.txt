@@ -1,0 +1,30 @@
+[
+    {
+        "id": "84ce",
+        "nome": "cleber antonio",
+        "endereço": "rua da felicidade ,93",
+        "estado civil": "casado",
+        "renda": 3000
+    },
+    {
+        "id": "521a",
+        "nome": "antonio cleber",
+        "endereço": "rua da tristeza ,93",
+        "estado civil": "casado",
+        "renda": 2300
+    },
+    {
+        "id": "17a7",
+        "nome": "pedro palestrin",
+        "endereço": "rua da havaianas ,934",
+        "estado civil": "solteiro",
+        "renda": 13000
+    },
+    {
+        "id": "5e61",
+        "nome": "josiane palestrin",
+        "endereço": "rua da havaianas ,934",
+        "estado civil": "casada",
+        "renda": 1300000
+    }
+]

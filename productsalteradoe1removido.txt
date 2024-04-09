@@ -1,0 +1,30 @@
+[
+    {
+        "id": "cb51",
+        "nome": "sabão",
+        "descrição": "cheiroso",
+        "preço": 6.5,
+        "quantidade": 1
+    },
+    {
+        "id": "79e7",
+        "nome": "pão",
+        "descrição": "saboroso",
+        "preço": 10.2,
+        "quantidade": 1
+    },
+    {
+        "id": "908b",
+        "nome": "bolo",
+        "descrição": "gostoso",
+        "preço": 60,
+        "quantidade": 1
+    },
+    {
+        "id": "3db3",
+        "nome": "faca",
+        "descrição": "corta bem",
+        "preço": 32,
+        "quantidade": 1
+    }
+]
